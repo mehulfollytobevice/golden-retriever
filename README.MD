@@ -97,4 +97,4 @@ The system has been evaluated against existing language models, focusing on hand
 
 ## Contact:
 
-For more information or support, please contact  [Mehul Jain](mailto:mehul.jain.codedev@gmail.com?subject=Ask about golden retriever)
+For more information or support, please contact  [Mehul Jain](mailto:mehul.jain.codedev@gmail.com)
