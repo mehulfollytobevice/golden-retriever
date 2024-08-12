@@ -12,7 +12,7 @@ To break it down further:
 
 Golden Retriever is an offline Retrieval-Augmented Generation (RAG) system designed for data science teams. It provides personalized, reference-rich outputs while operating in environments without internet connectivity. This system is ideal for secure settings where data privacy is paramount.
 
-__Version:__ 1.0
+__Version:__ 1.0 \
 __Developed by:__ Bishal Agarwal, Mehul Jain, Indhuja Muthu Kumar, and Dinesh Sai Pappuru
 
 ## Features:
